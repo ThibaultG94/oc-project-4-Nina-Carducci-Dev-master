@@ -8,6 +8,10 @@ body {
 	font-style: normal;
 }
 
+img {
+	height: auto;
+}
+
 .top-header {
 	background-color: white;
 	position: sticky;
